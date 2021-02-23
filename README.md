@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS and PHP**
 
-- 👨‍💻 All of my projects are available at [https://jkhauth.com/#/](https://jkhauth.com/#/)
+- 👨‍💻 All of my projects are available at [jkhauth.com](https://jkhauth.com/#/)
 
 - 💬 Ask me about **React**
 
