@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkhauth&label=Profile%20views&color=0e75b6&style=flat" alt="jkhauth" /> </p>
 
-- 🌱 I’m currently learning **AWS and PHP**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [jkhauth.com](https://jkhauth.com/#/)
 
