@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm John Hauth</h1>
-<h3 align="center">A passionate MERN developer located in Philadelphia, PA</h3>
+<h3 align="center">A ServiceNow developer located in Philadelphia, PA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkhauth&label=Profile%20views&color=0e75b6&style=flat" alt="jkhauth" /> </p>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [jkhauth.com](https://jkhauth.com/#/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **ServiceNow**
 
 - 📫 How to reach me **jkhauth@gmail.com**
 
